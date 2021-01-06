@@ -1,4 +1,4 @@
-,Symptom description
+,Description
 lesion,"Any pathological or traumatic discontinuity of tissue or loss of function of a part. Lesion is a broad term, including wounds, sores, ulcers, tumors, cataracts, and any other tissue damage"
 mental status changes,"An alteration in mental status refers to general changes in brain function, such as confusion, amnesia (memory loss), loss of alertness, disorientation (not cognizant of self, time, or place), defects in judgment or thought, unusual or strange behavior, poor regulation of emotions, and disruptions in perception, psychomotor skills, and behavior."
 malaise,"Malaise is a general feeling of discomfort, illness, or lack of well-being"
